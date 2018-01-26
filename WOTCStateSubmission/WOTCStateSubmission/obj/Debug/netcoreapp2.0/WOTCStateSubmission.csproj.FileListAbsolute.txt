@@ -1,0 +1,32 @@
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.deps.json
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.runtimeconfig.json
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.runtimeconfig.dev.json
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.dll
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.csprojResolveAssemblyReference.cache
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.csproj.CoreCompileInputs.cache
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.AssemblyInfoInputs.cache
+C:\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.AssemblyInfo.cs
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.deps.json
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.runtimeconfig.json
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.runtimeconfig.dev.json
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.dll
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.csproj.CoreCompileInputs.cache
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.AssemblyInfoInputs.cache
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.AssemblyInfo.cs
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.pdb
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.dll
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.pdb
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.csprojResolveAssemblyReference.cache
+C:\Users\dmallick.ERS\Documents\Visual Studio 2017\Projects\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.xml
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.xml
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.deps.json
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.runtimeconfig.json
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.runtimeconfig.dev.json
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.dll
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\bin\Debug\netcoreapp2.0\WOTCStateSubmission.pdb
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.csproj.CoreCompileInputs.cache
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.AssemblyInfoInputs.cache
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.AssemblyInfo.cs
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.dll
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.pdb
+C:\test2\WOTCStateSubmission\WOTCStateSubmission\obj\Debug\netcoreapp2.0\WOTCStateSubmission.csprojResolveAssemblyReference.cache

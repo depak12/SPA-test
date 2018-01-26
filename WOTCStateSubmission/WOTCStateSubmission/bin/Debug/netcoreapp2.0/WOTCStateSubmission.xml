@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WOTCStateSubmission</name>
+    </assembly>
+    <members>
+        <member name="T:IOTCStateSubmission.Controllers.StateApiController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:IOTCStateSubmission.Controllers.StateApiController.SubmitScreenings(System.String,System.Collections.Generic.List{WOTCStateSubmission.Model.WOTCModel})">
+            <summary>
+            Submits applications to the state
+            </summary>
+            <remarks>This call will submit the screenings to the state</remarks>
+            <param name="stateAbbreviation">Abbreviation of the state</param>
+            <param name="body">Request that contains a list of all of the applications to be submitted</param>
+            <response code="200">successful operation</response>
+            <response code="405">Invalid input</response>
+        </member>
+    </members>
+</doc>
